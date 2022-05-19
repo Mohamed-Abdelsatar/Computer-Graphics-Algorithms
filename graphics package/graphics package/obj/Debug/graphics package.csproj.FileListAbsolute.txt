@@ -1,0 +1,42 @@
+C:\Users\hi\source\repos\graphics package\graphics package\bin\Debug\graphics package.exe.config
+C:\Users\hi\source\repos\graphics package\graphics package\bin\Debug\graphics package.exe
+C:\Users\hi\source\repos\graphics package\graphics package\bin\Debug\graphics package.pdb
+C:\Users\hi\source\repos\graphics package\graphics package\obj\Debug\graphics package.csprojAssemblyReference.cache
+C:\Users\hi\source\repos\graphics package\graphics package\obj\Debug\graphics_package.Form1.resources
+C:\Users\hi\source\repos\graphics package\graphics package\obj\Debug\graphics_package.Properties.Resources.resources
+C:\Users\hi\source\repos\graphics package\graphics package\obj\Debug\graphics package.csproj.GenerateResource.cache
+C:\Users\hi\source\repos\graphics package\graphics package\obj\Debug\graphics package.csproj.CoreCompileInputs.cache
+C:\Users\hi\source\repos\graphics package\graphics package\obj\Debug\graphics package.exe
+C:\Users\hi\source\repos\graphics package\graphics package\obj\Debug\graphics package.pdb
+E:\3 semester 2\graphics\graphics package\graphics package\bin\Debug\graphics package.exe.config
+E:\3 semester 2\graphics\graphics package\graphics package\bin\Debug\graphics package.exe
+E:\3 semester 2\graphics\graphics package\graphics package\bin\Debug\graphics package.pdb
+E:\3 semester 2\graphics\graphics package\graphics package\obj\Debug\graphics package.csprojAssemblyReference.cache
+E:\3 semester 2\graphics\graphics package\graphics package\obj\Debug\graphics_package.Form1.resources
+E:\3 semester 2\graphics\graphics package\graphics package\obj\Debug\graphics_package.Properties.Resources.resources
+E:\3 semester 2\graphics\graphics package\graphics package\obj\Debug\graphics package.csproj.GenerateResource.cache
+E:\3 semester 2\graphics\graphics package\graphics package\obj\Debug\graphics package.csproj.CoreCompileInputs.cache
+E:\3 semester 2\graphics\graphics package\graphics package\obj\Debug\graphics package.exe
+E:\3 semester 2\graphics\graphics package\graphics package\obj\Debug\graphics package.pdb
+E:\FCAI lvl 3.2\Computer graphics\graphics package\graphics package\graphics package\bin\Debug\graphics package.exe.config
+E:\FCAI lvl 3.2\Computer graphics\graphics package\graphics package\graphics package\bin\Debug\graphics package.exe
+E:\FCAI lvl 3.2\Computer graphics\graphics package\graphics package\graphics package\bin\Debug\graphics package.pdb
+E:\FCAI lvl 3.2\Computer graphics\graphics package\graphics package\graphics package\obj\Debug\graphics package.csproj.AssemblyReference.cache
+E:\FCAI lvl 3.2\Computer graphics\graphics package\graphics package\graphics package\obj\Debug\graphics package.csproj.SuggestedBindingRedirects.cache
+E:\FCAI lvl 3.2\Computer graphics\graphics package\graphics package\graphics package\obj\Debug\graphics_package.Form1.resources
+E:\FCAI lvl 3.2\Computer graphics\graphics package\graphics package\graphics package\obj\Debug\graphics_package.Properties.Resources.resources
+E:\FCAI lvl 3.2\Computer graphics\graphics package\graphics package\graphics package\obj\Debug\graphics package.csproj.GenerateResource.cache
+E:\FCAI lvl 3.2\Computer graphics\graphics package\graphics package\graphics package\obj\Debug\graphics package.csproj.CoreCompileInputs.cache
+E:\FCAI lvl 3.2\Computer graphics\graphics package\graphics package\graphics package\obj\Debug\graphics package.exe
+E:\FCAI lvl 3.2\Computer graphics\graphics package\graphics package\graphics package\obj\Debug\graphics package.pdb
+C:\Users\SWE_m\OneDrive\Desktop\graphics package\graphics package\graphics package\bin\Debug\graphics package.exe.config
+C:\Users\SWE_m\OneDrive\Desktop\graphics package\graphics package\graphics package\bin\Debug\graphics package.exe
+C:\Users\SWE_m\OneDrive\Desktop\graphics package\graphics package\graphics package\bin\Debug\graphics package.pdb
+C:\Users\SWE_m\OneDrive\Desktop\graphics package\graphics package\graphics package\obj\Debug\graphics package.csproj.AssemblyReference.cache
+C:\Users\SWE_m\OneDrive\Desktop\graphics package\graphics package\graphics package\obj\Debug\graphics package.csproj.SuggestedBindingRedirects.cache
+C:\Users\SWE_m\OneDrive\Desktop\graphics package\graphics package\graphics package\obj\Debug\graphics_package.Form1.resources
+C:\Users\SWE_m\OneDrive\Desktop\graphics package\graphics package\graphics package\obj\Debug\graphics_package.Properties.Resources.resources
+C:\Users\SWE_m\OneDrive\Desktop\graphics package\graphics package\graphics package\obj\Debug\graphics package.csproj.GenerateResource.cache
+C:\Users\SWE_m\OneDrive\Desktop\graphics package\graphics package\graphics package\obj\Debug\graphics package.csproj.CoreCompileInputs.cache
+C:\Users\SWE_m\OneDrive\Desktop\graphics package\graphics package\graphics package\obj\Debug\graphics package.exe
+C:\Users\SWE_m\OneDrive\Desktop\graphics package\graphics package\graphics package\obj\Debug\graphics package.pdb

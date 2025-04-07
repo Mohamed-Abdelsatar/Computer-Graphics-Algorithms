@@ -2,11 +2,11 @@
 <h2> Drawing System Algorithms For Drawing Geometric Forms for Computer Graphics</h2>
  <h3> 
   In This Algorithms Package You'll Find Drawing Algorithms For : </h3><br>
-    &nbsp;&nbsp;&nbsp;1- Line Drawing Algorithms DDA (Digital Differential Analyzer)<br><br>
-    &nbsp;&nbsp;&nbsp;2- Line Drawing Algorithms Bresenham<br><br>
-    &nbsp;&nbsp;&nbsp;3- Circle Drawing Algorithms <br><br>
-    &nbsp;&nbsp;&nbsp;4- Ellipse Drawing Algorithms <br><br>
-    &nbsp;&nbsp;&nbsp;5- 2d Transformations Drawing Algorithms with it's Properties (Translation, Scaling, & Rotation , Reflection and Shearing )<br> <br>
+    &nbsp;&nbsp;&nbsp;1. Line Drawing Algorithms DDA (Digital Differential Analyzer)<br><br>
+    &nbsp;&nbsp;&nbsp;2. Line Drawing Algorithms Bresenham<br><br>
+    &nbsp;&nbsp;&nbsp;3. Circle Drawing Algorithms <br><br>
+    &nbsp;&nbsp;&nbsp;4. Ellipse Drawing Algorithms <br><br>
+    &nbsp;&nbsp;&nbsp;5. 2d Transformations Drawing Algorithms with it's Properties (Translation, Scaling, & Rotation , Reflection and Shearing )<br> <br>
 
 <hr>
  • Here We Used C# For Programming and Windows Forms For Beautiful GUI
